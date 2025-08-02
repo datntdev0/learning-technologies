@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36202.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "datntdev.OpenIddict.IdentityServer", "datntdev.OpenIddict.IdentityServer\datntdev.OpenIddict.IdentityServer.csproj", "{77FE770E-FD2B-4107-9C5B-6E7710D2F3AA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "datntdev.OpenIddict.ResourceServer", "datntdev.OpenIddict.ResourceServer\datntdev.OpenIddict.ResourceServer.csproj", "{FAD38D76-AFB8-4045-B05A-54E8DF2672FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{77FE770E-FD2B-4107-9C5B-6E7710D2F3AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77FE770E-FD2B-4107-9C5B-6E7710D2F3AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77FE770E-FD2B-4107-9C5B-6E7710D2F3AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAD38D76-AFB8-4045-B05A-54E8DF2672FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAD38D76-AFB8-4045-B05A-54E8DF2672FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAD38D76-AFB8-4045-B05A-54E8DF2672FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAD38D76-AFB8-4045-B05A-54E8DF2672FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
